@@ -32,7 +32,7 @@ while True:
 #Check login
 
 time.sleep(5)
-print('Now start delete friend request.')
+print('Now start to delete friend request.')
 #blank_obj = driver.find_element_by_xpath("/html/body/div[2]/div[1]/div/div[2]")
 #blank_obj.click()
 #push_noti_button = driver.find_element_by_tag_name("button")
